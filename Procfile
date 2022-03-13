@@ -1,0 +1,1 @@
+web:gunicorn foodAndLifeStyle.wsgi --log-file -
